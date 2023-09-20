@@ -7,3 +7,5 @@
 - relation series_post (71 objects) - each record describes the series' results,
 - relation teams (143 objects) - each record describes the performance of the teams for each season,
 - relation teams_post (81 objects) - each record describes the results of each team at the post-season.
+
+![Summary](../AC_proj/img/1.png)
