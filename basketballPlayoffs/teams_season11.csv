@@ -1,0 +1,13 @@
+year,lgID,tmID,franchID,confID,playoff,name,arena
+11,WNBA,ATL,ATL,EA,"Y",Atlanta Dream ,Philips Arena
+11,WNBA,CHI,CHI,EA,"N",Chicago Sky ,Allstate Arena
+11,WNBA,CON,CON,EA,"N",Connecticut Sun ,Mohegan Sun Arena
+11,WNBA,IND,IND,EA,"Y",Indiana Fever ,Conseco Fieldhouse
+11,WNBA,LAS,LAS,WE,"Y",Los Angeles Sparks ,Staples Center
+11,WNBA,MIN,MIN,WE,"N",Minnesota Lynx ,Target Center
+11,WNBA,NYL,NYL,EA,"Y",New York Liberty ,Prudential Center
+11,WNBA,PHO,PHO,WE,"Y",Phoenix Mercury ,US Airways Center
+11,WNBA,SAS,SAS,WE,"Y",San Antonio Silver Stars ,AT&T Center
+11,WNBA,SEA,SEA,WE,"Y",Seattle Storm ,KeyArena at Seattle Center
+11,WNBA,TUL,DET,WE,"N",Tulsa Shock ,BOK Center
+11,WNBA,WAS,WAS,EA,"Y",Washington Mystics ,Verizon Center
